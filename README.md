@@ -1,4 +1,4 @@
-# Flux v2 and the Gitops Toolkit
+# Flux v2 and the GitOps Toolkit
 
 ## [Flux v2](https://github.com/fluxcd/flux2)
 
@@ -14,10 +14,10 @@
 - [Flux v2 Roadmap](https://toolkit.fluxcd.io/roadmap/)
 - [Migrate from the Helm Operator to the Helm Controller](https://toolkit.fluxcd.io/guides/helm-operator-migration/)
 
-## GitOps Framework: [Gitops Toolkit (GOTK)](https://github.com/fluxcd/flux2#gitops-toolkit)
+## [GitOps Toolkit (GOTK)](https://github.com/fluxcd/flux2#gitops-toolkit)
 
 ![overview](img/gitops-toolkit.png)
 
 - GOTK is a set of composable APIs and specialized tools that can be used to build a CI/CD platform on top of Kubernetes.
 - Users can make their own workflows using the components.
-- Third parties can extend the Gitops Toolkit with new components.
+- Third parties can extend GOTK with new components.
