@@ -11,6 +11,7 @@
 - Requirements:
   - export GITHUB_USER=<github_username>
   - export GITHUB_TOKEN=<public_access_token>
+  - The [personal access token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) needs to create repositories (check all permissions under repo).
   - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
   - Azure Login and subscription
   - A bash terminal
