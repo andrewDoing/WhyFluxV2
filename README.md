@@ -21,6 +21,11 @@
   3. Creates a resource group and 2 AKS clusters
   4. Executes the staging bootstrap and workflow
   5. Executes the production bootstrap and workflow
+  
+### terraform/github
+
+- Use terraform to deploy FluxV2
+- [Documentation](terraform/github.md)
 
 ### Resources
 
